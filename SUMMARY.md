@@ -2,7 +2,7 @@
 
 * [Saving Trees](README.md)
 
-## javascript
+## dev Notes
 
-* [Git Notes](javascript/git-notes.md)
+* [Git Notes](dev-notes/git-notes.md)
 
