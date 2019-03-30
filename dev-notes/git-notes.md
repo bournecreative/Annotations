@@ -55,17 +55,21 @@ git config --global user.email "user email address
 
 ![Git workflow cycle](../.gitbook/assets/screen-shot-2019-03-28-at-10.06.33-pm.png)
 
-#### Working Directory
+#### Local \| Working Directory
 
 Files that have not been added or staged. These are known as untracked files.
 
-#### Staging Area
+#### Local \| Staging Area
 
 Files that have been added for a commit.
 
-#### Repository
+#### Local \| Repository
 
 Files that have been staged and committed.
+
+#### Remote
+
+Files that have been added, committed and pushed to your remote repository
 
 ### Listing Tracked Files
 
@@ -75,7 +79,7 @@ List the tracked files within a repository
 git ls-files
 ```
 
-### Backing out of untracked changes
+### Backing out of Untracked Changes
 
 In the event you have made changes that have not been added or committed and you no longer wish to keep such changes
 
@@ -87,5 +91,33 @@ git checkout -- .
 git checkout -- path/filetorevert
 ```
 
+### Working with Forks
 
+When a repository is forked that you plan to submit pull requests to you must ensure you update the upstream url.
+
+You should have forked the repo in question, cloned it your machine. 
+
+```text
+git remote add upstream [original_repository_url]
+```
+
+```text
+git remote -v
+```
+
+You should conform that the **origin** urls for _fetch_ and _push_ are pointing to your remote repositories while _fetch_ and _push_ of **upstream** are pointing to the original repository git address
+
+### Deleting Branches
+
+delete a local branch - you must not be in the branch
+
+```text
+git branch -D [branch_name]
+```
+
+delete a remote branch
+
+```text
+git push origin --delete [branch_name]
+```
 
