@@ -121,3 +121,27 @@ delete a remote branch
 git push origin --delete [branch_name]
 ```
 
+### Pull an active Pull Request down as a branch onto your local
+
+Modify your git config
+
+```text
+[alias]
+prstash = "!if() { git fetch upstream
+refs/pull-requests/$1/from:pull-requests/2: } ; f"
+```
+
+Now from bash
+
+```text
+git prstash # nameOfBranch
+```
+
+The \# is the pull request number and what follows is the branch name. This information can be sourced from the actual pull request url
+
+Once you are complete reviewing you can also delete all branches created with git pr
+
+```text
+git pr-clean
+```
+
