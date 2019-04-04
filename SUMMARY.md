@@ -5,6 +5,7 @@
 ## dev Notes
 
 * [Git Notes](dev-notes/git-notes.md)
+* [Backing Out of Changes](dev-notes/backing-out-of-changes.md)
 
 ## Laravel Mix Notes
 
