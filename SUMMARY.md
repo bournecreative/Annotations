@@ -6,6 +6,7 @@
 
 * [Git Notes](dev-notes/git-notes.md)
 * [Backing Out of Changes](dev-notes/backing-out-of-changes.md)
+* [Updating Remote](dev-notes/updating-remote.md)
 
 ## Laravel Mix Notes
 
