@@ -14,3 +14,7 @@
 * [Laravel Mix - starter](laravel-mix-notes/laravel-mix-starter.md)
 * [Simple Config](laravel-mix-notes/simple-config.md)
 
+## Misc Tips
+
+* [Code Editor](misc-tips/code-editor.md)
+
