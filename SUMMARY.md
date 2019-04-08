@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Saving Trees](README.md)
+* [Functional Programming Concepts](functional-programming-concepts.md)
 
 ## dev Notes
 
