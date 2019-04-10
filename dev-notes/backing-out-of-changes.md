@@ -52,5 +52,10 @@ git clean
 
 {% embed url="https://git-scm.com/docs/git-clean" %}
 
+This also seems to work for removing un-staged changes 
 
+```text
+git checkout -- .
+git checkout -- path/filetorevert
+```
 

@@ -79,18 +79,6 @@ List the tracked files within a repository
 git ls-files
 ```
 
-### Backing out of Untracked Changes
-
-In the event you have made changes that have not been added or committed and you no longer wish to keep such changes
-
-```text
-git checkout -- .
-```
-
-```text
-git checkout -- path/filetorevert
-```
-
 ### Working with Forks
 
 When a repository is forked that you plan to submit pull requests to you must ensure you update the upstream url.
