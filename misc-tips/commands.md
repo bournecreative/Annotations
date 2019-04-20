@@ -2,7 +2,7 @@
 
 ## Differences with NPM commands
 
-Install globally on your computer 
+Install globally on your computer. The install globally when we want to run package from the terminal 
 
 ```
 npm install [package] -g
