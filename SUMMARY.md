@@ -20,4 +20,5 @@
 * [Code Editor](misc-tips/code-editor.md)
 * [dev tools](misc-tips/dev-tools.md)
 * [Commands](misc-tips/commands.md)
+* [Markdown Syntax](misc-tips/markdown-syntax.md)
 
