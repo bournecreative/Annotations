@@ -17,7 +17,9 @@ git add . // will move files to staging index
 Changes are now ready to be committed. 
 
 ```text
-git commit 
+git commit
+// ensure you have bash terminal to open in
+// code editor or this command will open Vimm
 
 or 
 
@@ -28,5 +30,25 @@ Once changes are committed, we can view them in the commit history using
 
 ```text
 git log // See Viewing Commits section for more info on this.
+```
+
+{% hint style="info" %}
+**The goal is that each commit has a single focus.**
+
+\*Keep each commit short \(less then 60 characters\)
+
+To ensure your commits are helpful, try using this phase:
+
+This commit will...&lt;commit message&gt;
+
+Also helpful is to write your commit messages with clarity
+{% endhint %}
+
+### Seeing changes that have not yet been committed
+
+Changes that have not yet been committed are untracked. If we are working on a project and want to see _**what changes have been made but not yet committed**_, this command will be especially helpful.
+
+```text
+git diff
 ```
 
