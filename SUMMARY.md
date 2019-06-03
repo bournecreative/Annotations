@@ -5,9 +5,9 @@
 
 ## Version Control \| Git
 
-* [Getting Started](version-control-git/configuration.md)
+* [Setting Up](version-control-git/configuration.md)
 * [Overview](version-control-git/overview.md)
-* [Git Notes](version-control-git/git-notes.md)
+* [Starting a Git Repository](version-control-git/git-notes.md)
 * [Viewing Commits](version-control-git/basic.md)
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
 * [Updating Remote](version-control-git/updating-remote.md)

@@ -2,7 +2,7 @@
 description: Getting up and running with Git
 ---
 
-# Getting Started
+# Setting Up
 
 ## Configuration of Terminal color
 

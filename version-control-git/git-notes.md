@@ -1,8 +1,6 @@
-# Git Notes
+# Starting a Git Repository
 
-## Ways to create a repo
-
-Create a new repository:
+### Clone a repository
 
 ```
 git clone [repository-address.git]
@@ -14,7 +12,7 @@ git push -u origin master
 
 ```
 
-Create via existing folder:
+### Create via existing folder 
 
 ```
 cd existing_folder
@@ -25,7 +23,7 @@ git commit -m "initial commit"
 git push -u origin master
 ```
 
-Create via existing repository
+### Create via existing repository
 
 ```text
 cd existing_repo
@@ -49,34 +47,6 @@ git config --global user.name "user name"
 
 ```text
 git config --global user.email "user email address
-```
-
-### Stages of Changes
-
-![Git workflow cycle](../.gitbook/assets/screen-shot-2019-03-28-at-10.06.33-pm.png)
-
-#### Local \| Working Directory
-
-Files that have not been added or staged. These are known as untracked files.
-
-#### Local \| Staging Area
-
-Files that have been added for a commit.
-
-#### Local \| Repository
-
-Files that have been staged and committed.
-
-#### Remote
-
-Files that have been added, committed and pushed to your remote repository
-
-### Listing Tracked Files
-
-List the tracked files within a repository
-
-```text
-git ls-files
 ```
 
 ### Working with Forks
