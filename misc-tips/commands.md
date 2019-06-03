@@ -26,13 +26,23 @@ Installing a specific version of a package
 npm install [package]@2.2.0
 ```
 
-### Bash Commands
+### Common Bash Commands
 
 ```text
 ls               // list files
+ls -a            //list all files
+
 mkdir            // make directory
+
 touch            // creates a file within present directory
-cp [file path]   // copies files 
-rm [file/folder] // removes file or folder 
+
+cp [file path]   // copies files
+Example would copy file from given directory and drop it in the root of directory
+cp node_modules/laravel-mix/setup/webpack.mix.js ./
+
+rm [file/folder] // removes file or folder
+
 ```
+
+
 
