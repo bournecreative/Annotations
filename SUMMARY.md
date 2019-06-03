@@ -3,12 +3,15 @@
 * [Saving Trees](README.md)
 * [Functional Programming Concepts](functional-programming-concepts.md)
 
-## dev Notes
+## Version Control \| Git
 
-* [Git Notes](dev-notes/git-notes.md)
-* [Backing Out of Changes](dev-notes/backing-out-of-changes.md)
-* [Updating Remote](dev-notes/updating-remote.md)
-* [Staying in sync](dev-notes/updating.md)
+* [Getting Started](version-control-git/configuration.md)
+* [Overview](version-control-git/overview.md)
+* [Git Notes](version-control-git/git-notes.md)
+* [Viewing Commits](version-control-git/basic.md)
+* [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
+* [Updating Remote](version-control-git/updating-remote.md)
+* [Staying in sync](version-control-git/updating.md)
 
 ## Laravel Mix Notes
 
