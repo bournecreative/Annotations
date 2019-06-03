@@ -9,6 +9,7 @@
 * [Overview](version-control-git/overview.md)
 * [Starting a Git Repository](version-control-git/git-notes.md)
 * [Viewing Commits](version-control-git/basic.md)
+* [Tags](version-control-git/tags.md)
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
 * [Updating Remote](version-control-git/updating-remote.md)
 * [Staying in sync](version-control-git/updating.md)
