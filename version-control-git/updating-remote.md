@@ -1,4 +1,4 @@
-# Updating Remote
+# Remote
 
 ## Pointing to new places
 

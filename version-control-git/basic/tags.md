@@ -4,7 +4,7 @@
 
 Tags let us identify specific commits that may be of certain importance and allow us to label them
 
-![commit f is tagged with version 1.0](../.gitbook/assets/screen-shot-2019-06-02-at-9.57.31-pm.png)
+![commit f is tagged with version 1.0](../../.gitbook/assets/screen-shot-2019-06-02-at-9.57.31-pm.png)
 
 Tags stays locked to a commit throughout the commit history. You can however edit or remove tags if necessary.
 

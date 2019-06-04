@@ -7,12 +7,12 @@
 
 * [Setting Up](version-control-git/configuration.md)
 * [Overview](version-control-git/overview.md)
-* [Starting a Git Repository](version-control-git/git-notes.md)
-* [Viewing Commits](version-control-git/basic.md)
-* [Tags](version-control-git/tags.md)
-* [Branching](version-control-git/branching.md)
+* [Viewing Commits](version-control-git/basic/README.md)
+  * [Tags](version-control-git/basic/tags.md)
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
-* [Updating Remote](version-control-git/updating-remote.md)
+* [Remote](version-control-git/updating-remote.md)
+* [Branching](version-control-git/branching.md)
+* [Starting a Git Repository](version-control-git/git-notes.md)
 * [Staying in sync](version-control-git/updating.md)
 
 ## Laravel Mix Notes
