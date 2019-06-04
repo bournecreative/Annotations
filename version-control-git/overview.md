@@ -43,7 +43,7 @@ git log // See Viewing Commits section for more info on this.
 Its important you improve the patterns and detail of your commit messages. Doing so will improve readability and make your commits more useful.
 
 {% hint style="info" %}
-Commits should apply to a single change. Commit often and do not pollute commits with unrelated changes. 
+Commits should apply to a single focus. Commit often and do not pollute commits with unrelated changes. 
 {% endhint %}
 
 {% hint style="info" %}
