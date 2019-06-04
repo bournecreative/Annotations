@@ -1,4 +1,4 @@
-# Overview
+# Overview of Git Workflow
 
 ## Visualizing the Git Workflow
 
