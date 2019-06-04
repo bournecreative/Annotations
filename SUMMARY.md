@@ -10,10 +10,10 @@
 * [Starting a Git Repository](version-control-git/git-notes.md)
 * [Viewing Commits](version-control-git/basic.md)
 * [Tags](version-control-git/tags.md)
+* [Branching](version-control-git/branching.md)
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
 * [Updating Remote](version-control-git/updating-remote.md)
 * [Staying in sync](version-control-git/updating.md)
-* [Branching](version-control-git/branching.md)
 
 ## Laravel Mix Notes
 
