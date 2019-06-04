@@ -13,6 +13,7 @@
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
 * [Updating Remote](version-control-git/updating-remote.md)
 * [Staying in sync](version-control-git/updating.md)
+* [Branching](version-control-git/branching.md)
 
 ## Laravel Mix Notes
 
