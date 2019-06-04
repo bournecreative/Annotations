@@ -1,23 +1,20 @@
-# Commit
+# Committing and more
 
-## Getting Super Powers
+We covered the purpose of committing and how to execute commits in the [Overview of Git Workflow section](overview.md)
 
-Becoming a super hero is a fairly straight forward process:
+```text
+git commit
+// ensure you have configured you bash terminal to open in a code editor or
+// this command will open Vimm. Enter message and description for commit
 
-```
-$ give me super-powers
-```
+or 
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+git commit -m "commit message" // use the -m flag or message flag. This method does not 
+                               // allow you to provide a description for the commit,
+                               // only the message
 ```
 
+### Are Commits forever?
 
+We have seen that once we add and commit changes, the changes are added to the repository history and associated with the commit/SHA created and associated with that message. How might we back out of a commit if changes are committed that were not needed.
 

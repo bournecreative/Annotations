@@ -18,7 +18,7 @@ git add [file name.ext] // you can target specific files and move to Staging Are
 git add . // will target all files and move to Staging Area
 ```
 
-Running git status again will highlight your new files in green, indicating these files are being "_**tracked**_" now and have been "_**staged**_". Committing these changes will group these new files, updates, or deletions with commit within the commit history.
+Running git status again will highlight your new files in green, indicating these files are being "_**tracked**_" now and have been "_**staged**_". Committing these changes will group these newly added files, updates, or deletions with this current commit within the commit history.
 
 ```text
 git commit

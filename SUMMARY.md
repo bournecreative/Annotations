@@ -9,7 +9,7 @@
 * [Overview of Git Workflow](version-control-git/overview.md)
 * [Branching](version-control-git/branching.md)
 * [Git add and more](version-control-git/staging-changes.md)
-* [Commit](version-control-git/commit.md)
+* [Committing and more](version-control-git/commit.md)
 * [Viewing Commits](version-control-git/basic/README.md)
   * [Tags](version-control-git/basic/tags.md)
 * [Merging](version-control-git/merging.md)
