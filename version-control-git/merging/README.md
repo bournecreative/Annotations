@@ -10,13 +10,13 @@ When a merge happens, it creates a commit, a _**"merge commit"**_
 
 ### Regular Merge
 
-![8 represents a merge commit of sidebar and master](../.gitbook/assets/screen-shot-2019-06-05-at-12.18.30-am.png)
+![8 represents a merge commit of sidebar and master](../../.gitbook/assets/screen-shot-2019-06-05-at-12.18.30-am.png)
 
 ### Fast-forward Merge
 
-![](../.gitbook/assets/screen-shot-2019-06-05-at-12.20.57-am.png)
+![](../../.gitbook/assets/screen-shot-2019-06-05-at-12.20.57-am.png)
 
-![](../.gitbook/assets/screen-shot-2019-06-05-at-12.21.42-am.png)
+![](../../.gitbook/assets/screen-shot-2019-06-05-at-12.21.42-am.png)
 
 In this scenario, the social-links branch is ahead of the master branch by two commits. If the social-links branch is merged into the master branch, a Fast-forward merge occurs.
 
