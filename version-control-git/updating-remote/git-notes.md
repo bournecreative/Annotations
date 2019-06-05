@@ -1,4 +1,4 @@
-# Starting a Git Repository
+# Creating a Remote
 
 ### Clone a repository
 

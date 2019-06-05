@@ -14,7 +14,7 @@ They allow us to work on the same project in different isolated environments
 
 In this example we have 2 branches. Currently they point to the same commit but make notice of the "_**Head**_" pointer. Head identifies the active branch. We can use the `git checkout` command to select the branch we want to actively work out of.
 
-![](../.gitbook/assets/screen-shot-2019-06-04-at-1.37.31-am%20%281%29.png)
+![](../.gitbook/assets/screen-shot-2019-06-04-at-1.37.31-am.png)
 
 In this example, we see that we have switched to the sidebar branch and have made 2 commits.
 

@@ -13,8 +13,9 @@
 * [Viewing Commits](version-control-git/basic/README.md)
   * [Tags](version-control-git/basic/tags.md)
 * [Merging](version-control-git/merging.md)
-* [Remote](version-control-git/updating-remote.md)
-* [Starting a Git Repository](version-control-git/git-notes.md)
+* [Remote](version-control-git/updating-remote/README.md)
+  * [Creating a Remote](version-control-git/updating-remote/git-notes.md)
+  * [Changing location of a remote](version-control-git/updating-remote/changing-location-of-a-remote.md)
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
 * [Staying in sync](version-control-git/updating.md)
 
