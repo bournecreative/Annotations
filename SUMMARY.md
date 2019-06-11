@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Saving Trees](README.md)
-* [Functional Programming Concepts](functional-programming-concepts.md)
 
 ## Version Control \| Git
 
@@ -32,4 +31,9 @@
 * [Commands](misc-tips/commands.md)
 * [Markdown Syntax](misc-tips/markdown-syntax.md)
 * [Trouble Shooting](misc-tips/trouble-shooting.md)
+
+## JavaScript Concepts
+
+* [Functional Programming Concepts](javascript/functional-programming-concepts.md)
+* [Untitled](javascript/untitled.md)
 
