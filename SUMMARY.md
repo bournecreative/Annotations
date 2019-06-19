@@ -2,7 +2,7 @@
 
 * [Saving Trees](README.md)
 
-## Version Control \| Git
+## Version Control \| Git <a id="version-control-git"></a>
 
 * [Setting Up](version-control-git/configuration.md)
 * [Overview of Git Workflow](version-control-git/overview.md)
@@ -33,7 +33,7 @@
 * [Markdown Syntax](misc-tips/markdown-syntax.md)
 * [Trouble Shooting](misc-tips/trouble-shooting.md)
 
-## JavaScript Concepts
+## JavaScript Concepts <a id="javascript"></a>
 
 * [Functional Programming Concepts](javascript/functional-programming-concepts.md)
 * [Untitled](javascript/untitled.md)
