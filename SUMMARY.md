@@ -19,7 +19,6 @@
   * [Creating a Remote](version-control-git/updating-remote/git-notes.md)
   * [Changing location of a remote](version-control-git/updating-remote/changing-location-of-a-remote.md)
 * [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
-* [Staying in sync](version-control-git/updating.md)
 * [README](version-control-git/readme.md)
 
 ## Laravel Mix Notes
