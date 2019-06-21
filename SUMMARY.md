@@ -10,6 +10,7 @@
 * [Git add and more](version-control-git/staging-changes.md)
 * [Committing and more](version-control-git/commit.md)
 * [Viewing Commits](version-control-git/basic/README.md)
+  * [Backing out of Commits](version-control-git/basic/backing-out-of-commits.md)
   * [Tags](version-control-git/basic/tags.md)
 * [Merging](version-control-git/merging/README.md)
   * [Merge Conflicts](version-control-git/merging/merge-conflicts.md)
