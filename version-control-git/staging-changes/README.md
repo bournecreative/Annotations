@@ -47,13 +47,5 @@ The following is an example to illustrate how we could ignore all jpgs within th
 imgs/*.jpg
 ```
 
-### Un-Staging Changes
-
-In the event we adding a file to the staging index as unintended consequence, we can undo this mistake using the `git rm` command
-
-```text
-git rm --cached <file>
-```
-
 
 
