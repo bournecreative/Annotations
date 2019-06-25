@@ -7,6 +7,7 @@
 * [Setting Up](version-control-git/configuration.md)
 * [Overview of Git Workflow](version-control-git/overview.md)
 * [Branching](version-control-git/branching.md)
+* [Removing Working Directory Changes](version-control-git/removing-working-directory-changes.md)
 * [Git add and more](version-control-git/staging-changes/README.md)
   * [Undo git add](version-control-git/staging-changes/undo-git-add.md)
 * [Committing and more](version-control-git/commit.md)
