@@ -1,6 +1,4 @@
-# Backing Out of Changes
-
-## Git Stash
+# Git Stash
 
 Sometimes you are working in the wrong branch and only realize this after the fact. How can you save your work and transfer your work to the correct branch? Git Stash to the rescue. _**Git Stash**_ can record the current state of the working directory and go back to a clean working directory.
 
@@ -43,19 +41,4 @@ git stash --include-untracked
 {% embed url="https://git-scm.com/docs/git-stash" %}
 
 {% embed url="https://git-scm.com/book/en/v1/Git-Tools-Stashing" %}
-
-### Removing untracked files
-
-```text
-git clean
-```
-
-{% embed url="https://git-scm.com/docs/git-clean" %}
-
-This also seems to work for removing un-staged changes 
-
-```text
-git checkout -- .
-git checkout -- path/filetorevert
-```
 

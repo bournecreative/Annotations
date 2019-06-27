@@ -12,7 +12,8 @@
   * [Undo git add](version-control-git/staging-changes/undo-git-add.md)
 * [Committing and more](version-control-git/commit.md)
 * [Viewing Commits](version-control-git/basic/README.md)
-  * [Backing out of Commits](version-control-git/basic/backing-out-of-commits.md)
+  * [Backing out of Commits](version-control-git/basic/backing-out-of-commits/README.md)
+    * [Git Stash](version-control-git/basic/backing-out-of-commits/backing-out-of-changes.md)
   * [Tags](version-control-git/basic/tags.md)
 * [Merging](version-control-git/merging/README.md)
   * [Merge Conflicts](version-control-git/merging/merge-conflicts.md)
@@ -21,7 +22,6 @@
     * [Fetch](version-control-git/updating-remote/tracking-changes/fetch.md)
   * [Creating a Remote](version-control-git/updating-remote/git-notes.md)
   * [Changing location of a remote](version-control-git/updating-remote/changing-location-of-a-remote.md)
-* [Backing Out of Changes](version-control-git/backing-out-of-changes.md)
 * [README](version-control-git/readme.md)
 
 ## Laravel Mix Notes
