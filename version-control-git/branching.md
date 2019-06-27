@@ -39,3 +39,9 @@ When a branch is no longer needed, we can delete the branch using the -d flag
 git branch -d [branchname]
 ```
 
+### Delete a Remote Branch
+
+```text
+git push origin --delete [branch_name]
+```
+
