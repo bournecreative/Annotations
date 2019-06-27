@@ -40,7 +40,13 @@ Note that this command creates a new commit in the commit history
 Danger! Use with caution since you are literally removing commits from the repository.
 {% endhint %}
 
-In this scenario, we are removing commits from the git commit history. Because of this
+In this scenario, we are removing commits from the git commit history. Because of this, we must use this command with caution.
+
+### In the event a commit is removed but thats really not what we wanted
+
+This scenario should be avoided at all costs. In the event a mistake is made, `git reflog` can be used to retrieve a history that is deleted ~ for about 30 days.
+
+{% embed url="https://git-scm.com/docs/git-reflog" %}
 
 ### 
 
