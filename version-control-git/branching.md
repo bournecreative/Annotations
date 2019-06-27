@@ -36,7 +36,15 @@ git branch [branchname] [commit SHA] //create branch from a previous commit
 When a branch is no longer needed, we can delete the branch using the -d flag
 
 ```text
-git branch -d [branchname]
+git branch -d [branch_name]
+```
+
+{% hint style="info" %}
+If a branch is not merged, Git will notify you and let you know \[branch\] is not fully merged.
+{% endhint %}
+
+```text
+git branch -D [branch_name]
 ```
 
 ### Delete a Remote Branch
