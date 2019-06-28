@@ -60,8 +60,6 @@ In the example illustrated above, the following command would send the commit ba
 git reset --mixed Head~1
 ```
 
-![flag selected will determine what happens to the commit](../.gitbook/assets/screen-shot-2019-06-28-at-3.33.53-pm.png)
-
 In the example illustrated above, the following command would send the commit back to the Staging Index
 
 ```text
@@ -90,5 +88,31 @@ This scenario should be avoided at all costs. In the event a mistake is made, `g
 
 {% embed url="https://git-scm.com/docs/git-reflog" %}
 
-### 
+### Targeting Commits
+
+We can target commits by their SHA, by tags, branches, and the special `HEAD` pointer. Commits can also be targeted by there position relative to other commits using "_**Ancestry References**_"
+
+`^` - indicates the parent commit
+
+`~` - indicates the first parent commit
+
+The following commits can be referenced in numerous ways:
+
+#### Parent Commit
+
+* HEAD^
+* HEAD~
+* HEAD~1
+
+#### Grandparent Commit 
+
+* HEAD^^
+* HEAD~2
+
+#### Great Grandparent Commit 
+
+* HEAD^^^
+* HEAD~3
+
+![](../.gitbook/assets/screen-shot-2019-06-28-at-3.52.49-pm.png)
 
