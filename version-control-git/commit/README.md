@@ -1,6 +1,6 @@
 # Committing and more
 
-We covered the purpose of committing and how to execute commits in the [Overview of Git Workflow section](overview.md)
+We covered the purpose of committing and how to execute commits in the [Overview of Git Workflow section](../overview.md)
 
 ```text
 git commit

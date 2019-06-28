@@ -1,4 +1,4 @@
-# Git Stash
+# Saving for Later - Git Stash
 
 Sometimes you are working in the wrong branch and only realize this after the fact. How can you save your work and transfer your work to the correct branch? Git Stash to the rescue. _**Git Stash**_ can record the current state of the working directory and go back to a clean working directory.
 
