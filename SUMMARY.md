@@ -21,8 +21,8 @@
   * [Tracking Changes](version-control-git/updating-remote/tracking-changes/README.md)
     * [Fetch](version-control-git/updating-remote/tracking-changes/fetch.md)
   * [Creating a Remote](version-control-git/updating-remote/git-notes.md)
-  * [Contributions on GitHub](version-control-git/updating-remote/contributions-on-github.md)
   * [Changing location of a remote](version-control-git/updating-remote/changing-location-of-a-remote.md)
+* [Contributions on GitHub](version-control-git/contributions-on-github.md)
 * [README](version-control-git/readme.md)
 
 ## Laravel Mix Notes
