@@ -88,9 +88,13 @@ This scenario should be avoided at all costs. In the event a mistake is made, `g
 
 {% embed url="https://git-scm.com/docs/git-reflog" %}
 
+### HEAD
+
+Head refers to the last commit in the current checked-out branch.
+
 ### Targeting Commits
 
-We can target commits by their SHA, by tags, branches, and the special `HEAD` pointer. Commits can also be targeted by there position relative to other commits using "_**Ancestry References**_"
+We can target commits by their **SHA**, by **tags**, **branches**, and the special `HEAD` pointer. Commits can also be targeted by there position relative to other commits using "_**Ancestry References**_"
 
 `^` - indicates the parent commit
 
