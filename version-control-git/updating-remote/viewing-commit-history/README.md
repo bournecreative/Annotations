@@ -22,9 +22,5 @@ You can also target commits by a specific author
 git log --author=authorName //use quotes for multiple words
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
 
 
