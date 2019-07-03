@@ -54,7 +54,7 @@ When git reset is run, you do so with 1 of 3 flags. The flag specified determine
 
 ![flag selected will determine what happens to the commit](../.gitbook/assets/screen-shot-2019-06-28-at-3.33.53-pm.png)
 
-In the example illustrated above, the following command would send the commit back to the working directory
+In the example illustrated above, the following command would send the most recent commit back to the working directory
 
 ```text
 git reset --mixed Head~1
@@ -99,6 +99,13 @@ We can target commits by their **SHA**, by **tags**, **branches**, and the speci
 `^` - indicates the parent commit
 
 `~` - indicates the first parent commit
+
+To clarify, the main difference between ^ and ~.
+
+A merge has two parents,. With a merge commit, the ^ references the first parent of the commit while ^2 indicates the second parent. 
+
+1. The first parent is the branch you are on when you run `git merge`
+2. The second parent is the branch that was merged in
 
 The following commits can be referenced in numerous ways:
 
