@@ -22,7 +22,8 @@
   * [Tracking Changes](version-control-git/updating-remote/tracking-changes/README.md)
     * [Fetch](version-control-git/updating-remote/tracking-changes/fetch.md)
   * [Changing location of a remote](version-control-git/updating-remote/changing-location-of-a-remote.md)
-* [Viewing Commit History](version-control-git/viewing-commit-history.md)
+  * [Viewing Commit History](version-control-git/updating-remote/viewing-commit-history/README.md)
+    * [Forks](version-control-git/updating-remote/viewing-commit-history/forks.md)
 * [Contributions on GitHub](version-control-git/contributions-on-github.md)
 * [README](version-control-git/readme.md)
 
