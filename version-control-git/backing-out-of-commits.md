@@ -125,5 +125,23 @@ The following commits can be referenced in numerous ways:
 * HEAD^^^
 * HEAD~3
 
+{% hint style="warning" %}
+Even with these definitions and additional reading i am still somewhat unclear on identifying commits relatively using ^ and ~.
+{% endhint %}
+
 ![](../.gitbook/assets/screen-shot-2019-06-28-at-3.52.49-pm.png)
+
+If we wanted to reset and go back to **commit e**
+
+```text
+git reset --mixed Head~3
+```
+
+![](../.gitbook/assets/screen-shot-2019-07-02-at-9.32.31-pm.png)
+
+Head~\# seems to be a straightforward method of identifing the needed commit in a linear pattern.
+
+```text
+Head~#
+```
 
