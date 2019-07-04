@@ -11,9 +11,14 @@ We can then create a new branch and apply the changes
 ```
 // See the array of stashs 
 git stash list
+
 // Apply the specified stash - most recent stash is at [0]
 // If no specific stash is specified, position 0 is used
-git stash apply stash@{#}
+git stash apply
+
+// example of inserting specific array index
+git stash apply stash@{2} 
+
 // Remove all stash entries
 git stash clear 
 
