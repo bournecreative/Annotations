@@ -8,5 +8,9 @@ When working with works you need to set up your upstream. Remember once you fork
 git remote add upstream <github url of origin repository>
 ```
 
+![Visual for Forked Repo&apos;s](../../../.gitbook/assets/screen-shot-2019-07-08-at-2.25.38-pm.png)
 
+{% hint style="info" %}
+We can only **pull** from the _Upstream_. We can not push because we do not own that repository. To push to that repository we would need submit a **pull request** from our **remote** repository.
+{% endhint %}
 
