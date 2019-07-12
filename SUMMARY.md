@@ -30,7 +30,7 @@
 
 ## Laravel Mix Notes
 
-* [Laravel Mix - starter](laravel-mix-notes/laravel-mix-starter.md)
+* [Laravel Mix - boilerplate](laravel-mix-notes/laravel-mix-starter.md)
 * [Simple Config](laravel-mix-notes/simple-config.md)
 
 ## Misc Tips
