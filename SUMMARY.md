@@ -33,6 +33,16 @@
 * [Laravel Mix - boilerplate](laravel-mix-notes/laravel-mix-starter.md)
 * [Simple Config](laravel-mix-notes/simple-config.md)
 
+## React
+
+* [Components](react/components.md)
+* [Untitled](react/untitled-1.md)
+
+## JavaScript Concepts <a id="javascript"></a>
+
+* [Functional Programming Concepts](javascript/functional-programming-concepts.md)
+* [Untitled](javascript/untitled.md)
+
 ## Misc Tips
 
 * [Code Editor](misc-tips/code-editor.md)
@@ -41,13 +51,7 @@
 * [Markdown Syntax](misc-tips/markdown-syntax.md)
 * [Trouble Shooting](misc-tips/trouble-shooting.md)
 
-## JavaScript Concepts <a id="javascript"></a>
+## Python
 
-* [Functional Programming Concepts](javascript/functional-programming-concepts.md)
-* [Untitled](javascript/untitled.md)
-
-## React
-
-* [Components](react/components.md)
-* [Untitled](react/untitled-1.md)
+* [Flow Control](python/flow-control.md)
 
