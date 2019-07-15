@@ -5,7 +5,7 @@
 **If/else:** Execute a block of code when a condition is true. You can have multiple conditions and outcomes.
 
 ```text
-var secret = 'Chronos'
+secret = 'Chronos'
 
 if len(secret) <= 5:
     // Indentation is important or code will not run
@@ -15,7 +15,7 @@ else:
 ```
 
 ```text
-var gummyBearWeight = 10
+gummyBearWeight = 10
 
 if gummyBearWeight < 1:
     print('dont be shy, get more gummies')
@@ -44,14 +44,44 @@ else:
 **For loops:** Logic repeats for a set number of intervals
 
 ```text
+nameList = ['luke', 'han', 'chewie']
 
+// number represents the index of the array item
+for number in nameList:
+    print(number)
 ```
+
+{% hint style="info" %}
+**continue** - will let you skip to an index if a condition is met
+{% endhint %}
+
+```text
+for val in range(2
+```
+
+{% hint style="info" %}
+**break** - will exit the for loop if a condition is met
+{% endhint %}
 
 **While Loops:** Logic repeats while a condition is true
 
 ```text
-
+willingToPay = 12
+while willingToPay < 100:
+    print(willingToPay)
+    willingToPay = willingToPay * 1.5
 ```
 
+Remove leading zeros
 
+```text
+initList = [0,0,0,0,0,6,74,23]
+
+while initList[0] == 0:
+   del initList[0]
+   print(initList)
+print(initList)
+  
+
+```
 
