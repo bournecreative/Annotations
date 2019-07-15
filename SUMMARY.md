@@ -55,3 +55,7 @@
 
 * [Flow Control](python/flow-control.md)
 
+## OOP Notes
+
+* [Getters & Setters](oop-notes/getters-and-setters.md)
+
