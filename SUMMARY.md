@@ -58,4 +58,5 @@
 ## OOP Notes
 
 * [Getters & Setters](oop-notes/getters-and-setters.md)
+* [Inheritance](oop-notes/inheritance.md)
 
