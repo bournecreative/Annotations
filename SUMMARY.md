@@ -35,8 +35,8 @@
 
 ## React
 
-* [Components](react/components.md)
-* [Untitled](react/untitled-1.md)
+* [Components](react/components/README.md)
+  * [ES6 Modules](react/components/untitled-1.md)
 
 ## JavaScript Concepts <a id="javascript"></a>
 
