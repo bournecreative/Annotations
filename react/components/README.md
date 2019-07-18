@@ -13,8 +13,10 @@ The beauty of React is its ability to manage state throughout the components.
 ```text
 import React from 'react'
 import ReactDOM from 'react-dom'
+
 // capitalize class name
-// ever component needs a render method 
+// components need a render method
+
 class StorePicker extends React.component {
     render(){
         return <p>Hello There </p>
@@ -24,28 +26,33 @@ class StorePicker extends React.component {
 default export StorePicker
 ```
 
-The render method
-
 {% hint style="info" %}
-The render method determines what HTML is rendered from the component. Render methods return JSX
+The render method determines what HTML is rendered from the component. Render methods return JSX which looks like html but is really JavaScript
 {% endhint %}
 
 {% hint style="info" %}
-The render method determines what HTML is rendered from the component. Render methods return JSX
+The is the mounting point
 {% endhint %}
+
+### Importing react-dom
+
+Rather then import the entire react-dom library, we only import a single function needed from react-dom
+
+```text
+// Importing the render function
+import {render} from 'react-dom'
+```
 
 {% hint style="info" %}
+The render method takes 2 arguments
 
+1. JSX to render. We pass the parent class of our React application
+2. Mounting point. The mounting points is the DOM element your application hooks into
 {% endhint %}
 
-{% hint style="info" %}
-JSX looks a lot like HTML but it is a terse syntax that is translated into vanilla javascript when compiled
-{% endhint %}
+```text
+render(parentClass, mounting point)
 
-### 2 Types of Componets
-
-1. Stateless Components
-2. Components with State
-
-
+render(<StorePicker />, document.querySelector('#main'))
+```
 

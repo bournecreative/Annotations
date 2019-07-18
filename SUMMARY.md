@@ -37,6 +37,7 @@
 
 * [Components](react/components/README.md)
   * [ES6 Modules](react/components/untitled-1.md)
+* [Organization of React App](react/organization-of-react-app.md)
 
 ## JavaScript Concepts <a id="javascript"></a>
 
