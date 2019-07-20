@@ -1,8 +1,10 @@
 # ES6 Modules
 
+When using ES6 modules we need to remember that we need to always **import** our dependencies at the top of page and **export** our components at the end of the page
+
 ### Importing
 
-To make use of packages installed, we must reference them in our source javascript
+To make use of packages installed, we must reference them in our source JavaScript
 
 ```
 import VariableName from 'packageName'
@@ -28,7 +30,7 @@ import {render} from 'react-dom'
 ```
 
 {% hint style="info" %}
-When we are importing files that we create, not libraries. We need to specify the fileName where we typically identify the variable name and we need to identify the file path rather then the library name
+When we are importing files that we create, not libraries. We need to specify the _**file name**_ where we typically identify the _**variable name**_ and we need to identify the _**file path**_ rather then the library name.
 {% endhint %}
 
 ```text

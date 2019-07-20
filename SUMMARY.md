@@ -35,9 +35,10 @@
 
 ## React
 
-* [Components](react/components/README.md)
-  * [ES6 Modules](react/components/untitled-1.md)
+* [Components](react/components.md)
 * [Organization of React App](react/organization-of-react-app.md)
+* [ES6 Modules](react/untitled-1.md)
+* [JSX Rules](react/jsx-rules.md)
 
 ## JavaScript Concepts <a id="javascript"></a>
 
