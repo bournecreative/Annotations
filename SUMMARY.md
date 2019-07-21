@@ -35,15 +35,27 @@
 
 ## React
 
-* [Components](react/components.md)
 * [Organization of React App](react/organization-of-react-app.md)
-* [ES6 Modules](react/untitled-1.md)
-* [JSX Rules](react/jsx-rules.md)
+* [Components](react/components/README.md)
+  * [Statefull vs Stateless](react/components/statefull-vs-stateless.md)
+* [Related but not React](react/related-but-not-react/README.md)
+  * [ES6 Modules](react/related-but-not-react/untitled-1.md)
+  * [JSX Rules](react/related-but-not-react/jsx-rules.md)
+* [Managing CSS](react/managing-css.md)
+
+## OOP Notes
+
+* [Getters & Setters](oop-notes/getters-and-setters.md)
+* [Inheritance](oop-notes/inheritance.md)
 
 ## JavaScript Concepts <a id="javascript"></a>
 
 * [Functional Programming Concepts](javascript/functional-programming-concepts.md)
 * [Untitled](javascript/untitled.md)
+
+## Python
+
+* [Flow Control](python/flow-control.md)
 
 ## Misc Tips
 
@@ -52,13 +64,4 @@
 * [Commands](misc-tips/commands.md)
 * [Markdown Syntax](misc-tips/markdown-syntax.md)
 * [Trouble Shooting](misc-tips/trouble-shooting.md)
-
-## Python
-
-* [Flow Control](python/flow-control.md)
-
-## OOP Notes
-
-* [Getters & Setters](oop-notes/getters-and-setters.md)
-* [Inheritance](oop-notes/inheritance.md)
 
