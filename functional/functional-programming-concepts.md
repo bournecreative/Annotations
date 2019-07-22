@@ -1,4 +1,4 @@
-# Functional Programming Concepts
+# Immutability
 
 ## Immutable Data
 
@@ -49,7 +49,7 @@ const {weapon ...ATATdriver} = trooper
 
 Also make note that we also make use of _**destructuring.**_ What is _**destructuring**_ you ask? 
 
-_**Destructuring**_ **is a means of unpacking properties of an object directly into variables.** 
+_**De-structuring**_ **is a means of unpacking properties of an object directly into variables.** 
 
 ```text
 const applePie = {

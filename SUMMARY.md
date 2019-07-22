@@ -28,16 +28,11 @@
 * [Contributions on GitHub](version-control-git/contributions-on-github.md)
 * [README](version-control-git/readme.md)
 
-## Laravel Mix Notes
-
-* [Laravel Mix - boilerplate](laravel-mix-notes/laravel-mix-starter.md)
-* [Simple Config](laravel-mix-notes/simple-config.md)
-
 ## React
 
 * [Organization of React App](react/organization-of-react-app.md)
 * [Components](react/components/README.md)
-  * [Statefull vs Stateless](react/components/statefull-vs-stateless.md)
+  * [State-full vs Stateless](react/components/statefull-vs-stateless.md)
 * [Related but not React](react/related-but-not-react/README.md)
   * [ES6 Modules](react/related-but-not-react/untitled-1.md)
   * [JSX Rules](react/related-but-not-react/jsx-rules.md)
@@ -48,10 +43,14 @@
 * [Getters & Setters](oop-notes/getters-and-setters.md)
 * [Inheritance](oop-notes/inheritance.md)
 
-## JavaScript Concepts <a id="javascript"></a>
+## Functional Notes <a id="functional"></a>
 
-* [Functional Programming Concepts](javascript/functional-programming-concepts.md)
-* [Untitled](javascript/untitled.md)
+* [Immutability](functional/functional-programming-concepts.md)
+
+## Laravel Mix Notes
+
+* [Laravel Mix - boilerplate](laravel-mix-notes/laravel-mix-starter.md)
+* [Simple Config](laravel-mix-notes/simple-config.md)
 
 ## Python
 
