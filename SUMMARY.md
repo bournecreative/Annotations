@@ -38,6 +38,7 @@
   * [JSX Rules](react/related-but-not-react/jsx-rules.md)
   * [Managing CSS](react/related-but-not-react/managing-css.md)
 * [Routing](react/routing.md)
+* [Hooks](react/hooks.md)
 
 ## OOP Notes
 
@@ -56,6 +57,7 @@
 ## Python
 
 * [Flow Control](python/flow-control.md)
+* [Functions](python/functions.md)
 
 ## Misc Tips
 
