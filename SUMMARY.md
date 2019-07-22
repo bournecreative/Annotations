@@ -36,7 +36,8 @@
 * [Related but not React](react/related-but-not-react/README.md)
   * [ES6 Modules](react/related-but-not-react/untitled-1.md)
   * [JSX Rules](react/related-but-not-react/jsx-rules.md)
-* [Managing CSS](react/managing-css.md)
+  * [Managing CSS](react/related-but-not-react/managing-css.md)
+* [Routing](react/routing.md)
 
 ## OOP Notes
 
