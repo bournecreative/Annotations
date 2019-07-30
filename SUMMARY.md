@@ -35,11 +35,15 @@
   * [State-full vs Stateless](react/components/statefull-vs-stateless.md)
   * [Hooks](react/components/hooks.md)
   * [Binding Events](react/components/binding-events.md)
+* [Props](react/props.md)
+* [Events](react/events/README.md)
+  * [Refs](react/events/refs.md)
+* [Routing](react/routing.md)
+* [Getting to know React Hooks](react/getting-to-know-react-hooks.md)
 * [Related but not React](react/related-but-not-react/README.md)
   * [ES6 Modules](react/related-but-not-react/untitled-1.md)
   * [JSX Rules](react/related-but-not-react/jsx-rules.md)
   * [Managing CSS](react/related-but-not-react/managing-css.md)
-* [Routing](react/routing.md)
 
 ## OOP Notes
 
