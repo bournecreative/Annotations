@@ -15,7 +15,7 @@ class Messenger extends React.Component {
     
     eventHandlerExample(e){
         //we can access the reference of the input value here
-        console.log(this.myMessage)
+        console.log(this.myMessage.value.value)
     }
     
     render() {
