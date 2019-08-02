@@ -8,7 +8,9 @@ Inheritance is one of the core concepts of oop that enable children objects to t
 
 Rather than have objects with identical properties and methods, we can have children objects inherit methods and properties from a parent object. This example illustrates inheritance via object classes.
 
-![](../.gitbook/assets/screen-shot-2019-07-16-at-2.38.36-pm.png)
+![Circle and Square inherit from the Parent or base class](../.gitbook/assets/screen-shot-2019-08-02-at-12.15.03-pm.png)
+
+In the example above, Cirlce and Square are children of the Shape class, inheriting methods and properties from the shape. _So Circle is a Shape,  Square is a shape._
 
 ### Prototypical inheritance
 
@@ -17,6 +19,10 @@ In JavaScript we do not have classes, we only have objects. However the same pri
 
 Every object in JavaScript has a prototype except the _**root object. The prototype can be thought of as a parent object from which the current level object inherits from.**_
 {% endhint %}
+
+![Shape is the Prototype or Parent of circle](../.gitbook/assets/screen-shot-2019-08-02-at-12.19.16-pm.png)
+
+Every single in object in JavaScript has a parent object except for the root.
 
 ### Who is my Parent?
 
@@ -30,6 +36,8 @@ We can also determine the prototype by inspecting an object in dev tools.
 
 {% hint style="info" %}
 look for the \_\_proto\_\_ property
+
+This property is availalbe via dev tools to identify the prototype but it is deprecated so don't refer to this in code.
 {% endhint %}
 
 ![myArray inherits from arrayBase and arrayBase inherits from objectBase](../.gitbook/assets/screen-shot-2019-07-16-at-2.49.08-pm.png)
@@ -40,7 +48,7 @@ If we were to inspect each of these objects, we would notice a property called _
 
 ### The big picture
 
-When we use a constructor from which we can use to create object instances from, know that each instance of that object is inheriting the properties and methods from that constructor instance.
+When we create constructor to make object instances from, we know that our object instances are inheriting directly from that constructor instance.
 
 Also understand that the constructor is also inheriting properties and methods from its prototype. This prototype can be accessed via:
 
