@@ -1,5 +1,9 @@
 # JSX Rules
 
+{% hint style="danger" %}
+Whenever you are using JSX, remember to import React
+{% endhint %}
+
 When using JSX, there are a few rules to remember.
 
 ```
@@ -29,11 +33,11 @@ class tooltip extends React.Component{
 ```
 
 {% hint style="info" %}
-You can wrap returned JSX in parentheses to format code in this indented variation
+You can wrap returned JSX in parentheses to format code in this indented variation to get around the issue noted previously with automatic semicolon insertion
 {% endhint %}
 
 ```
-//example component WRONG
+//example component WRONG!!
 
 class tooltip extends React.Component{
     render(){

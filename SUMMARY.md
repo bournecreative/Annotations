@@ -35,6 +35,7 @@
   * [State-full vs Stateless](react/components/statefull-vs-stateless.md)
   * [Hooks](react/components/hooks.md)
   * [Binding Events](react/components/binding-events.md)
+* [State](react/state.md)
 * [Props](react/props.md)
 * [Events](react/events/README.md)
   * [Refs](react/events/refs.md)
