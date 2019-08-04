@@ -63,7 +63,9 @@
 ## Python
 
 * [Flow Control](python/flow-control.md)
-* [Functions](python/functions.md)
+* [Functions](python/functions/README.md)
+  * [More Functions](python/functions/more-functions/README.md)
+    * [List Comprehensions](python/functions/more-functions/list-comprehensions.md)
 
 ## Misc Tips
 
