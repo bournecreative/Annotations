@@ -78,4 +78,5 @@
 ## vanilla
 
 * [Page Loading](vanilla/page-loading.md)
+* [Nodes to Arrays](vanilla/nodes-to-arrays.md)
 
