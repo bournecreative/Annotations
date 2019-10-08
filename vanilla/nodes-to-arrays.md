@@ -6,6 +6,10 @@ There are several ways to transform node lists into Arrays. However, picking the
 Array.from(_nodelist_)
 ```
 
+{% hint style="warning" %}
+Array.from is not supported by IE
+{% endhint %}
+
 We can use the slice method to convert node lists into a new Array. In this example we are binding the method to the object.
 
 ```
