@@ -75,3 +75,7 @@
 * [Markdown Syntax](misc-tips/markdown-syntax.md)
 * [Trouble Shooting](misc-tips/trouble-shooting.md)
 
+## vanilla
+
+* [Page Loading](vanilla/page-loading.md)
+
