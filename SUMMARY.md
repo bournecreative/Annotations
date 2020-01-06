@@ -27,6 +27,7 @@
     * [Staying inSync](version-control-git/updating-remote/forks/staying-insync.md)
 * [Contributions on GitHub](version-control-git/contributions-on-github.md)
 * [README](version-control-git/readme.md)
+* [Undo git init](version-control-git/undo-git-init.md)
 
 ## React
 
