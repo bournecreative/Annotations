@@ -10,10 +10,16 @@ Discard local changes permanently  to a file
 git checkout -- <file name>
 ```
 
-Discard all local changes to all files permanently
+Discard local changes permanently  to any tracked files.
 
 ```
 git reset --hard
+```
+
+Remove untracked directories in addition to untracked files.
+
+```text
+git clean -f -d
 ```
 
 
