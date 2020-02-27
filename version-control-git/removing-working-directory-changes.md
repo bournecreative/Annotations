@@ -7,7 +7,14 @@ In the event changes have been made and you have decided that these changes are 
 Discard local changes permanently  to a file
 
 ```
+// discard local changes to a targeted tracked file
+
 git checkout -- <file name>
+
+// discard local changes to all tracked files
+
+git checkout .
+
 ```
 
 Discard local changes permanently  to any tracked files.
@@ -16,7 +23,7 @@ Discard local changes permanently  to any tracked files.
 git reset --hard
 ```
 
-Remove untracked directories in addition to untracked files.
+Remove all untracked files/directories in addition to untracked files.
 
 ```text
 git clean -f -d
