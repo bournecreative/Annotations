@@ -26,7 +26,19 @@ Installing a specific version of a package
 npm install [package]@2.2.0
 ```
 
-### Common Bash Commands
+### Show list of npm dependences with your version and latest version 
+
+```text
+npm outdated
+```
+
+Updating to latest version
+
+```text
+npm update
+```
+
+## Common Bash Commands
 
 ```text
 ls               // list files
